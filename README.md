@@ -45,3 +45,12 @@ build_flags =
 # Configuration
 
 Please navigate to [documentation](https://docs.platformio.org/page/platforms/espressif32.html).
+
+# Team members:
+- Yamashita Tri Ân (10422004)
+- Nguyễn Trần Quốc Đạt (10422017)
+- Nguyễn Minh Giáp (10422024)
+- Tôn Thất Nhật Minh (10422050)
+- Nguyễn Khôi Nguyên (10422058)
+- Hoàng Quang Nhật (10422060)
+- Lê Viết Tín (10422078)
