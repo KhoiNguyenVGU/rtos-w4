@@ -31,7 +31,6 @@ build_flags =
 
 ## Development version
 
-```ini
 [env:development]
 platform = https://github.com/platformio/platform-espressif32.git
 board = yolo_uno
@@ -46,6 +45,7 @@ build_flags =
 
 Please navigate to [documentation](https://docs.platformio.org/page/platforms/espressif32.html).
 
+```
 # Team members:
 - Yamashita Tri Ân (10422004)
 - Nguyễn Trần Quốc Đạt (10422017)
